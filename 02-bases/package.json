@@ -1,0 +1,20 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Esta es mi primera aplicacion de Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Migue Delgado",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "get-age": "^1.0.1",
+    "uuid": "^9.0.1"
+  }
+}

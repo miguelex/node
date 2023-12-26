@@ -13,3 +13,4 @@ El contenido del curso se muestra en el siguiente índice. La primera sección t
 - Sección 1: Presentación
 - Sección 2: [Fundamentos de Node - Primeros pasos](01-fundamentos)
 - Sección 3: [Desarrollando en Node](02-bases)
+- Sección 4: [Bases de Node + TypeScript - Continuación](03-node+typescript)

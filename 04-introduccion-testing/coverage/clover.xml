@@ -1,96 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1705603160138" clover="3.2.0">
-  <project timestamp="1705603160138" name="All files">
-    <metrics statements="81" coveredstatements="81" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2" elements="88" coveredelements="88" complexity="0" loc="81" ncloc="81" packages="1" files="3" classes="3"/>
-    <file name="02-destructuring.ts" path="C:\Proyectos\node\04-introduccion-testing\src\js-foundation\02-destructuring.ts">
-      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+<coverage generated="1712412263024" clover="3.2.0">
+  <project timestamp="1712412263024" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1" elements="18" coveredelements="18" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="06-promises.ts" path="H:\node\04-introduccion-testing\src\js-foundation\06-promises.ts">
+      <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
+      <line num="4" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
       <line num="10" count="1" type="stmt"/>
       <line num="11" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
-      <line num="17" count="1" type="stmt"/>
-    </file>
-    <file name="03-callbacks.ts" path="C:\Proyectos\node\04-introduccion-testing\src\js-foundation\03-callbacks.ts">
-      <metrics statements="28" coveredstatements="28" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
-      <line num="17" count="1" type="stmt"/>
-      <line num="18" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="19" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="20" count="3" type="stmt"/>
-      <line num="21" count="2" type="stmt"/>
-      <line num="22" count="2" type="stmt"/>
-      <line num="23" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="24" count="1" type="stmt"/>
-      <line num="25" count="1" type="stmt"/>
-      <line num="26" count="1" type="stmt"/>
-      <line num="27" count="1" type="stmt"/>
-      <line num="28" count="1" type="stmt"/>
-    </file>
-    <file name="05-factory.ts" path="C:\Proyectos\node\04-introduccion-testing\src\js-foundation\05-factory.ts">
-      <metrics statements="36" coveredstatements="36" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="16" count="1" type="cond" truecount="1" falsecount="0"/>
-      <line num="17" count="2" type="stmt"/>
-      <line num="18" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="19" count="1" type="stmt"/>
-      <line num="20" count="1" type="stmt"/>
-      <line num="21" count="1" type="stmt"/>
-      <line num="22" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
-      <line num="24" count="1" type="stmt"/>
-      <line num="25" count="1" type="stmt"/>
-      <line num="26" count="1" type="stmt"/>
-      <line num="27" count="2" type="stmt"/>
-      <line num="28" count="2" type="stmt"/>
-      <line num="29" count="1" type="stmt"/>
-      <line num="30" count="1" type="stmt"/>
-      <line num="31" count="1" type="stmt"/>
-      <line num="32" count="1" type="stmt"/>
-      <line num="33" count="1" type="stmt"/>
-      <line num="34" count="1" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="36" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>

@@ -15,3 +15,5 @@ El contenido del curso se muestra en el siguiente índice. La primera sección t
 - Sección 3: [Desarrollando en Node](02-bases)
 - Sección 4: [Bases de Node + TypeScript - Continuación](03-node+typescript)
 - Sección 5: [Inbtroducción al testing](04-introduccion-testing)
+- Sección 6: [Aplicación de consola - Clean Architecture - Primeros Pasos](05-multiplication)
+- Sección 7: [Inbtroducción al testing](06-multiplication-testing)
